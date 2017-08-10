@@ -1,0 +1,12 @@
+"""
+author: lijialin
+"""
+
+public class SixHelp {
+    public static void main(String[] args) {
+     	int i = 6;
+        String helper = Integer.toBinaryString(i);
+	}
+}
+
+
